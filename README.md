@@ -54,9 +54,6 @@ Actualmente trabajo en proyectos de clase y en mi **próximo TFG**, aplicando lo
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndYaN07&label=Profile views&color=8700CC&style=for-the-badge" alt="contador de visitas" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndYaN07&show_icons=true&theme=react" />
 </p>
+
