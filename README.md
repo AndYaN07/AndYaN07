@@ -1,22 +1,24 @@
-<h1 align="center">👋 ¡Hola! Soy <strong><span style="color:#8700CC">Anderson Guanche 👨🏻‍💻</span></strong></h1>
+<h1 align="center">👋 Hello! I'm <strong><span style="color:#8700CC">Anderson Guanche 👨🏻‍💻</span></strong></h1>
 
+💻 Student of **Multiplatform Application Development**
 
-💻 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-🚀 Apasionado por el **backend**, las bases de datos y la resolución de problemas.  
-🎯 Actualmente reforzando mis conocimientos en Java, Android Studio, JavaScript, Python y explorando Node.js, React y JavaSwing.
+🚀 Passionate about **backend**, databases, and problem-solving.
 
----
-
-### 🧠 Lo que estoy haciendo ahora
-
-Me estoy enfocando en **programación y backend**, aprendiendo nuevas tecnologías y fortaleciendo mis conocimientos en **bases de datos**.  
-Actualmente trabajo en proyectos de clase y en mi **próximo TFG**, aplicando lo aprendido y preparándome para futuros retos profesionales.
+🎯 Currently strengthening my knowledge in Java, Android Studio, JavaScript, Python and exploring Node.js, React, and JavaSwing.
 
 ---
 
-### ⚡ Tecnologías y herramientas
+### 🧠 What I'm doing now
 
-💡 **Lenguajes y frameworks:**  
+I'm focusing on **programming and backend**, learning new technologies, and strengthening my knowledge in **databases**.  
+I'm currently working on class projects and my **upcoming Final Degree Project**, applying what I've learned and preparing for future professional challenges.
+
+---
+
+### ⚡ Technologies and Tools
+
+💡 **Languages and Frameworks:**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00B303?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -24,7 +26,8 @@ Actualmente trabajo en proyectos de clase y en mi **próximo TFG**, aplicando lo
 ![CSS3](https://img.shields.io/badge/CSS3-7C04BA?style=for-the-badge&logo=css3&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-🖥️ **Entornos y bases de datos:**  
+🖥️ **Environments and Databases:**
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -32,10 +35,9 @@ Actualmente trabajo en proyectos de clase y en mi **próximo TFG**, aplicando lo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-4CA5FF?style=for-the-badge&logo=dbeaver&logoColor=white)
 
-
 ---
 
-### 📫 Encuéntrame
+### 📫 Find Me
 
 <p align="center">
   <a href="https://github.com/AndYaN07">
@@ -48,8 +50,7 @@ Actualmente trabajo en proyectos de clase y en mi **próximo TFG**, aplicando lo
 
 ---
 
-> “De largas jornadas en un camión a nuevos retos como desarrollador: el esfuerzo constante y la superación me han traído hasta aquí.”
-
+> “From long shifts in a truck to new challenges as a developer: constant effort and self-improvement have brought me here.”
 
 ---
 
@@ -57,7 +58,14 @@ Actualmente trabajo en proyectos de clase y en mi **próximo TFG**, aplicando lo
   <img src="https://github-readme-stats.vercel.app/api?username=AndYaN07&show_icons=true&theme=react" />
 </p>
 
+---
+
+📄 También disponible en español: [README Español](README_es.md)
+
+---
+
 ## ✨ Autor
 **Anderson Guanche Ramos**  
 📍 Pamplona, España  
 [GitHub](https://github.com/AndYaN07)
+
