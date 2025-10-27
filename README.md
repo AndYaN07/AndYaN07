@@ -54,12 +54,6 @@ I'm currently working on class projects and my **upcoming Final Degree Project**
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndYaN07&show_icons=true&theme=react" />
-</p>
-
----
-
 📄 También disponible en español: [README Español](README_es.md)
 
 ---
@@ -68,4 +62,5 @@ I'm currently working on class projects and my **upcoming Final Degree Project**
 **Anderson Guanche Ramos**  
 📍 Pamplona, España  
 [GitHub](https://github.com/AndYaN07)
+
 
