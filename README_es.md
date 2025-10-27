@@ -53,12 +53,6 @@ Actualmente trabajo en proyectos de clase y en mi **próximo TFG**, aplicando lo
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndYaN07&show_icons=true&theme=react" />
-</p>
-
----
-
 ## ✨ Autor
 **Anderson Guanche Ramos**  
 📍 Pamplona, España  
