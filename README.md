@@ -8,7 +8,7 @@
 
 ---
 
-### ### 🧠 What I'm doing now
+### 🧠 What I'm doing now
 
 I'm currently doing my **professional internship**, where I'm gaining hands-on experience working on real development tasks.
 
@@ -78,6 +78,7 @@ This experience is helping me strengthen my **backend development skills**, unde
 **Anderson Guanche Ramos**  
 📍 Pamplona, España  
 [GitHub](https://github.com/AndYaN07)
+
 
 
 
